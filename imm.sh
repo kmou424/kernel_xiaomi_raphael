@@ -1,4 +1,4 @@
-VERSION="IMMENS1TY-X-0.2.a-losfod-kmou424"
+VERSION="IMMENS1TY-X-0.3.a-losfod-kmou424"
 
 sed -i "s/-IMMENS1TY-X/-"$VERSION"/g" arch/arm64/configs/raphael_defconfig
 
